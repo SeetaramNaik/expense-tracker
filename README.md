@@ -2,7 +2,7 @@
 
 This is a simple expense tracker app where the user can add his daily expenses. 
 
-All the expense information are stored in localstorage of the browser.
+All the expense information are stored in array and we are handling all the states and providing state information using [useReducer()](https://reactjs.org/docs/hooks-reference.html#usereducer) and [useContext()](https://reactjs.org/docs/hooks-reference.html#usecontext) hooks provided by ReactJS.
 
 ## Snapshot of the expense tracker app
 
